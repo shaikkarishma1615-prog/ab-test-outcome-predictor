@@ -150,3 +150,12 @@ websockets==16.1
 widgetsnbextension==4.0.15
 xarray==2026.7.0
 xarray-einstats==0.10.0
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+scipy
+pymc
+arviz
+pytensor

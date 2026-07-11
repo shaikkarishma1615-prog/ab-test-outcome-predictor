@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Python cache files
+.pytest_cache/
+.mypy_cache/
+
+# Generated reports (optional)
+outputs/reports/*.csv
+
+# Temporary files
+*.tmp

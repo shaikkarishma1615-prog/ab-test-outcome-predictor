@@ -95,6 +95,7 @@ parso==0.8.7
 pexpect==4.9.0
 pillow==12.3.0
 platformdirs==4.10.0
+plotly==6.9.0
 prometheus_client==0.25.0
 prompt_toolkit==3.0.52
 protobuf==7.35.1
@@ -150,12 +151,3 @@ websockets==16.1
 widgetsnbextension==4.0.15
 xarray==2026.7.0
 xarray-einstats==0.10.0
-pandas
-numpy
-matplotlib
-plotly
-streamlit
-scipy
-pymc
-arviz
-pytensor

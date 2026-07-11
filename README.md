@@ -52,6 +52,7 @@ streamlit run src/dashboard.py
 
 ---
 
+
 ## 📈 Dashboard
 
 The dashboard allows you to:
@@ -62,6 +63,31 @@ The dashboard allows you to:
 - View Bayesian probability
 - Compare conversion rates
 - Download experiment data
+
+---
+## Screenshots
+
+### Dashboard Home
+
+![Dashboard Home](screenshots/dashboard_home.png)
+
+---
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
+
+---
+
+### Charts
+
+![Charts](screenshots/charts.png)
+
+---
+
+### Dataset Preview
+
+![Dataset Preview](screenshots/dataset_preview.png)
 
 ---
 
